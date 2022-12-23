@@ -6,3 +6,5 @@ Steps to trigger it:
 1. Launch your probe
 2. Press both the Back/Cancel button and the Roll Mode button
 3. You did it!
+
+Mod tested both on keyboard and controller.
