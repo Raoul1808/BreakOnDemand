@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "BreakOnDemand.dll",
+  "author": "Raoul1808",
+  "name": "Break On Demand",
+  "uniqueName": "Raoul1808.BreakOnDemand",
+  "version": "1.0.0",
+  "owmlVersion": "2.8.0",
+  "dependencies": []
+}
